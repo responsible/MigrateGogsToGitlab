@@ -1,0 +1,5 @@
+GOGS_DB_FOLDER = "gogs-backup"
+PRIVATE_TOKEN = 'ROOT_PRIVATE_TOKEN'
+BASE_URL = "http://gitlab.YOURDOMAIN.com/api/v4/{0}?private_token=" + PRIVATE_TOKEN
+GOGS_REPO_URL = "http://GOGSUSER:GOGSPASSWD@gogs.YOURDOMAIN.com/{0}/{1}"
+USER_PASSWD = "NEW_USER_PASSWD"
